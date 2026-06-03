@@ -1,16 +1,3 @@
-/*
-    Hi Professor,
-
-    I'm sending this version of my final project so you can look it over.
-    If anything needs to be changed or fixed please let me know as soon as you can.
-    Thank you for taking the time to review it.
-*/
-
-// Programming Assignment 14 - Library Management System
-// Compiled using JDoodle 
-// I included everything we learned: GUI, abstract classes, inheritance,
-// interfaces, file I/O, try/catch, sorting, searching, etc.
-
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.tree.DefaultMutableTreeNode;
